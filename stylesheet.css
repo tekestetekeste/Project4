@@ -1,8 +1,8 @@
 body {
-    background-color:#F08080;
+    background-color:black;
 }
 
-h1 {color: black;
+h1 {color: red;
     text-align: center;
 	    font-size: 60px;
 		margin:20px; 
@@ -21,15 +21,16 @@ body {margin:0;
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 20px;
 	 font-family: "Times New Roman", Times, serif;
+	font_color: 
 }
 .topnav a:hover {
     background-color:#ddd ;
-    color: black;
+    color: red;
 }
 .topnav a.active {
-    background-color: black;
+    background-color: grey;
     color: white;
 }
 p{
