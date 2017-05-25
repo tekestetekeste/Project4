@@ -34,6 +34,7 @@ body {margin:0;
     color: white;
 }
 p{
+	background-color: white;
 	font-size:35px;
 	font:bold;
 	margin:75px;
