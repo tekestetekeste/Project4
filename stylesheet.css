@@ -23,7 +23,7 @@ body {margin:0;
     text-decoration: none;
     font-size: 20px;
 	 font-family: "Times New Roman", Times, serif;
-	font_color: 
+	
 }
 .topnav a:hover {
     background-color:#ddd ;
@@ -38,4 +38,5 @@ p{
 	font:bold;
 	margin:75px;
 	 font-family: "Times New Roman", Times, serif;
+	font-color: white;
 }
